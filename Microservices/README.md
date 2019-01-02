@@ -41,17 +41,21 @@ _“In short, the microservice architectural style is an approach to developing 
 
 4. **Videos**
 
-* [The Evolution of Microservices](https://www.youtube.com/watch?v=Mg4Cs2K7f98) by Adrian Cockroft
-* [The State of the Art in Microservices](https://www.youtube.com/watch?v=pwpxq9-uw_0) by Adrian Cockroft
-* [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)  by Martin Fowler
-* [Implement microservices patterns with .NET Core and Docker containers at Channel 9](https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3317) by by Cesar De la Torre 
-* [Arquitetura baseada em eventos](https://azure.microsoft.com/pt-br/resources/videos/build-2018-azure-messaging-and-event-based-architecture-in-the-real-world-lessons-learned-rebuilding-microsoft-s-supply-chain-on-azure-serverless/)
+    [The Evolution of Microservices](https://www.youtube.com/watch?v=Mg4Cs2K7f98) by Adrian Cockroft
+    
+    [The State of the Art in Microservices](https://www.youtube.com/watch?v=pwpxq9-uw_0) by Adrian Cockroft
+    
+    [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)  by Martin Fowler
+
+    [Implement microservices patterns with .NET Core and Docker containers at Channel 9](https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3317) by by Cesar De la Torre 
+
+    [Arquitetura baseada em eventos](https://azure.microsoft.com/pt-br/resources/videos/build-2018-azure-messaging-and-event-based-architecture-in-the-real-world-lessons-learned-rebuilding-microsoft-s-supply-chain-on-azure-serverless/)
 
 5. **Books**
 
-* [Building Microservices: Defining Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do)
+    [Building Microservices: Defining Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do)
 
-* [Microservices Patterns  With examples in Java](https://www.manning.com/books/microservices-patterns)
+    [Microservices Patterns  With examples in Java](https://www.manning.com/books/microservices-patterns)
 
 
 ## Architectural patterns quick access
