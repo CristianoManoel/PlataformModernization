@@ -1,2 +1,4 @@
-# Plataform Modernization
-Guide, best practices, study paths and more about plataform tecnologies and solution modernization.
+# Software Engineering: learn paths, best practices & references
+
+Uncle Bob on SOLID principles (https://www.youtube.com/watch?v=TMuno5RZNeE)
+"You don't go fast by rushing"
