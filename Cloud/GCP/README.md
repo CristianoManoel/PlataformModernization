@@ -1,9 +1,7 @@
 # Google Cloud Platform
 
 ## What is GCP?
-Basicamente o GCP oferece serviços de infraestrutura para criar máquinas virtuais e suas respectivas configurações de rede. Existem serviços que fazem com que o deploy de uma aplicação seja mais fácil, assim como serviços de Big Data que permitem você armazenar quantidades enormes de dados em tempo real. Utilizando o GCP você pode facilmente incorporar Machine Learning e treinar modelos para tomar decisões de forma tão rápida que são atualmente um diferencial para muitas empresas.
-
-Vamos aprender a estrutura básica do Google e como são seus datacenters e estruturas de rede.
+Google Cloud Platform is a suite of public cloud computing services offered by Google. The platform includes a range of hosted services for compute, storage and application development that run on Google hardware. Google Cloud Platform services can be accessed by software developers, cloud administrators and other enterprise IT professionals over the public internet or through a dedicated network connection.
 
 ## Concepts
 
