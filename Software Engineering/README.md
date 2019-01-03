@@ -12,7 +12,7 @@
 
 2. **Software design**
 
-    [Common design principles of modern web apps](https://docs.microsoft.com/pt-br/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
+    [Common design principles of modern web apps](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
 
 3. **DDD**
 
