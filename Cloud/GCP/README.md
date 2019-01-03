@@ -1,11 +1,11 @@
 # Google Cloud Platform
 
-## O que é GCP?
+## What is GCP?
 Basicamente o GCP oferece serviços de infraestrutura para criar máquinas virtuais e suas respectivas configurações de rede. Existem serviços que fazem com que o deploy de uma aplicação seja mais fácil, assim como serviços de Big Data que permitem você armazenar quantidades enormes de dados em tempo real. Utilizando o GCP você pode facilmente incorporar Machine Learning e treinar modelos para tomar decisões de forma tão rápida que são atualmente um diferencial para muitas empresas.
 
 Vamos aprender a estrutura básica do Google e como são seus datacenters e estruturas de rede.
 
-## Conceitos
+## Concepts
 
 1. [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
 
@@ -15,13 +15,11 @@ Vamos aprender a estrutura básica do Google e como são seus datacenters e estr
 
 4. [Products](https://cloud.google.com/products/)
 
-5. [Controle de Acesso](https://cloud.google.com/compute/docs/access/)
+5. [Access Control](https://cloud.google.com/functions/docs/concepts/iam)
 
-6. [Access Control](https://cloud.google.com/functions/docs/concepts/iam)
+6. [Resource Hierarchy](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=pt-Br)
 
-7. [Hierarquia de recursos](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=pt-Br)
-
-## Treinamentos
+## Tranning
 
 1. **Google Cloud Certified Architect**
 
@@ -31,6 +29,6 @@ Vamos aprender a estrutura básica do Google e como são seus datacenters e estr
 
     [Google Cloud Certified Architect Practice Questions](https://www.udemy.com/google-cloud-certified-architect-practice-questions/)
 
-## Nível gratuito do GCP
+## GCP free level
 
 https://cloud.google.com/free/?hl=pt-BR
