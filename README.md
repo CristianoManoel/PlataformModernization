@@ -1,1 +1,3 @@
-![Paths to cloud](/Images/Paths_to_cloud.JPG)
+# Devops and Automation Loop
+![Paths to cloud](/Images/dev_ops.JPG)
+
