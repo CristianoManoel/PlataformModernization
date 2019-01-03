@@ -16,6 +16,10 @@
 
 3. **DDD**
 
+    [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
+
+    [Tackle Business Complexity in a Microservice with DDD and CQRS Patterns](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/)
+
 4. **TDD**
 
     [TDD overview](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
