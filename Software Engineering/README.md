@@ -18,6 +18,14 @@
 
 4. **TDD**
 
+    [TDD overview](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+
+    [The three laws of TDD by Uncle Bob](https://www.youtube.com/watch?v=qkblc5WRn-U)
+
+    [Is TDD dead?](https://martinfowler.com/articles/is-tdd-dead/)
+
+    [Manager's Introduction to Test-Driven Development](https://www.infoq.com/presentations/TDD-Managers-Nicolette-Scotland)
+
 
 ## Code quality
 
