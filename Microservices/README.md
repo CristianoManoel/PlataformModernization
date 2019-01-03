@@ -51,6 +51,10 @@ _“In short, the microservice architectural style is an approach to developing 
 
     [Arquitetura baseada em eventos](https://azure.microsoft.com/pt-br/resources/videos/build-2018-azure-messaging-and-event-based-architecture-in-the-real-world-lessons-learned-rebuilding-microsoft-s-supply-chain-on-azure-serverless/)
 
+    [GCP-API Management Best Practices](https://www.youtube.com/watch?v=a_oPGpMfjMg)
+
+    [Sensedia - O que é uma plataforma de Gerenciamento de APIs](https://www.youtube.com/watch?v=9WkRpFy3d_s)
+
 5. **Books**
 
     [Building Microservices: Defining Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do)
