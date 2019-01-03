@@ -1,0 +1,1 @@
+![Paths to cloud](/Images/Paths_to_cloud.JPG)
