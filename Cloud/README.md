@@ -3,7 +3,7 @@
 ## What is Cloud Computing?
 Cloud computing is the on-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the internet with pay-as-you-go pricing.
 
-## The 5 Essential Characteristics of a Cloud Service
+## Five Essential Characteristics of a Cloud Service
 
 1. **On-demand self-service** – if you are not able to subscribe and configure the service without the aid of a systems administrator or outside party it is not a cloud service.
 
