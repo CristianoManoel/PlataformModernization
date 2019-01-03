@@ -6,8 +6,8 @@
 
 ## References
 
-* [Roteiros de Aprendizado](https://aws.amazon.com/pt/training/learning-paths/)
+* [Learning Paths](https://aws.amazon.com/pt/training/learning-paths/)
 
-* [Centro de Arquitetura AWS](https://aws.amazon.com/pt/architecture/)
+* [AWS Architecture Center](https://aws.amazon.com/pt/architecture/)
 
 * [Amazon Book Store App](https://github.com/aws-samples/aws-bookstore-demo-app)
