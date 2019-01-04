@@ -126,13 +126,17 @@ Read more: [Adopting Microservices at Netflix: Lessons for Architectural Design]
     [Messaging](https://microservices.io/patterns/communication-style/messaging.html)
 
     [Domain-spingecific protocol](https://microservices.io/patterns/communication-style/domain-specific.html)
-ing
+
 6. **External API**
 
     [API gateway](https://microservices.io/patterns/apigateway.html)
 
     [Backend for front-end](https://microservices.io/patterns/apigateway.html)
 
+    [What is a Service Mash by Ngnix](https://medium.com/microservices-in-practice/service-mesh-for-microservices-2953109a3c9a)
+
+    [Service Mash for Microservices](https://medium.com/microservices-in-practice/service-mesh-for-microservices-2953109a3c9a)
+    
 7. **Transactional messaging**
 
     [Transactional outbox](https://microservices.io/patterns/data/application-events.html)
