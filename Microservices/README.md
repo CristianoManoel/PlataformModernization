@@ -62,6 +62,29 @@ _“In short, the microservice architectural style is an approach to developing 
     [Microservices Patterns  With examples in Java](https://www.manning.com/books/microservices-patterns)
 
 
+## What is a Microservices Architecture?
+
+[Cockcroft](https://www.linkedin.com/in/adriancockcroft/) defines a microservices architecture as a service‑oriented architecture composed of loosely coupled elements that have bounded contexts.
+
+Loosely coupled means that you can update the services independently; updating one service doesn’t require changing any other services. If you have a bunch of small, specialized services but still have to update them together, they’re not microservices because they’re not loosely coupled. One kind of coupling that people tend to overlook as they transition to a microservices architecture is database coupling, where all services talk to the same database and updating a service means changing the schema. You need to split the database up and denormalize it.
+
+The concept of bounded contexts comes from the book Domain Driven Design by Eric Evans. A microservice with correctly bounded context is self‑contained for the purposes of software development. You can understand and update the microservice’s code without knowing anything about the internals of its peers, because the microservices and its peers interact strictly through APIs and so don’t share data structures, database schemata, or other internal representations of objects.
+
+If you’ve developed applications for the Internet, you’re already familiar with these concepts, in practice if not by name. Most mobile apps talk to quite a few backend services, to enable its users to do things like share on Facebook, get directions from Google Maps, and find restaurants on Foursquare, all within the context of the app. If your mobile app were tightly coupled with those services, then before you could release an update you would have to talk to all of their development teams to make sure that your changes aren’t going to break anything.
+
+When working with a microservices architecture, you think of other internal development teams like those Internet backends: as external services that your microservice interacts with through APIs. The commonly understood “contract” between microservices is that their APIs are stable and forward compatible. Just as it’s unacceptable for the Google Maps API to change without warning and in such a way that it breaks its users, your API can evolve but must remain compatible with previous versions.
+
+## Best Practices for Designing a Microservices Architecture
+
+* Create a Separate Data Store for Each Microservice
+* Keep Code at a Similar Level of Maturity
+* Do a Separate Build for Each Microservice
+* Deploy in Containers
+* Treat Servers as Stateless
+
+Read more: [Adopting Microservices at Netflix: Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
+
+
 ## Architectural patterns quick access
 
 1. **Application architecture patterns**
