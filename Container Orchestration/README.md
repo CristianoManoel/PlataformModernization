@@ -35,7 +35,25 @@
 
 ## Container management softwares
 
+[Introduction to container orchestration: Kubernetes, Docker Swarm and Mesos with Marathon](https://www.exoscale.com/syslog/container-orchestration/)
+
 [Best Container Management Software Comparative](https://www.g2crowd.com/categories/container-management)
 
-
 ## Trainings
+
+[Scalable Microservices with Kubernetes (Udacity)](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+
+[Introduction to Kubernetes (edX)](https://www.edx.org/course/introduction-to-kubernetes)
+
+[Getting Started with Kubernetes (Pluralsight)](https://www.pluralsight.com/courses/getting-started-kubernetes)
+
+[Hands-on Introduction to Kubernetes (Instruqt)](https://play.instruqt.com/public/topics/getting-started-with-kubernetes)
+
+[Learn Kubernetes using Interactive Hands-on Scenarios (Katacoda)](https://www.katacoda.com/courses/kubernetes/)
+
+[Certified Kubernetes Administrator Preparation Course (LinuxAcademy.com)](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course)
+
+[Kubernetes the Hard Way (LinuxAcademy.com)](https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)
+
+[Certified Kubernetes Application Developer Preparation Course (KodeKloud.com)](https://kodekloud.com/p/kubernetes-certification-course)
+
