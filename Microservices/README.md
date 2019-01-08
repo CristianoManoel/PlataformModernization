@@ -41,9 +41,7 @@ _“In short, the microservice architectural style is an approach to developing 
 
 4. **Videos**
 
-    [The Evolution of Microservices](https://www.youtube.com/watch?v=Mg4Cs2K7f98) by Adrian Cockroft
-    
-    [The State of the Art in Microservices](https://www.youtube.com/watch?v=pwpxq9-uw_0) by Adrian Cockroft
+    [Developing Applications with the Microservices Architecture](https://youtu.be/WwrCGP96-P8?list=WL) by Chris Richardson
     
     [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)  by Martin Fowler
 
