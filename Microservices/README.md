@@ -59,6 +59,8 @@ _“In short, the microservice architectural style is an approach to developing 
 
     [Microservices Patterns  With examples in Java](https://www.manning.com/books/microservices-patterns)
 
+    [.NET Microservices: Architecture for Containerized .NET Applications](https://aka.ms/microservicesebook)
+
 
 ## What is a Microservices Architecture?
 
