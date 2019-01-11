@@ -41,6 +41,8 @@ _“In short, the microservice architectural style is an approach to developing 
 
 4. **Videos**
 
+    **Microservices:**
+
     [Developing Applications with the Microservices Architecture](https://youtu.be/WwrCGP96-P8?list=WL) by Chris Richardson
     
     [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)  by Martin Fowler
@@ -49,9 +51,18 @@ _“In short, the microservice architectural style is an approach to developing 
 
     [Arquitetura baseada em eventos](https://azure.microsoft.com/pt-br/resources/videos/build-2018-azure-messaging-and-event-based-architecture-in-the-real-world-lessons-learned-rebuilding-microsoft-s-supply-chain-on-azure-serverless/)
 
+    [Potholes in the road from monolithic hell: Microservices adoption anti-patterns](https://www.oreilly.com/ideas/potholes-in-the-road-from-monolithic-hell-microservices-adoption-anti-patterns) by Chris Richard
+
+    [Managing Data Consistency in a Microservice](https://www.youtube.com/watch?v=WCIko9GhfCA) by Chris Richard
+
+    **API Management & Governance:**
+
     [GCP-API Management Best Practices](https://www.youtube.com/watch?v=a_oPGpMfjMg)
 
     [Sensedia - O que é uma plataforma de Gerenciamento de APIs](https://www.youtube.com/watch?v=9WkRpFy3d_s)
+
+
+
 
 5. **Books**
 
@@ -214,3 +225,6 @@ Read more: [Adopting Microservices at Netflix: Lessons for Architectural Design]
     [Server-side page fragment composition](https://microservices.io/patterns/ui/server-side-page-fragment-composition.html)
 
     [Client-side UI composition](https://microservices.io/patterns/ui/client-side-ui-composition.html)
+
+## API Governance
+
