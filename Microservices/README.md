@@ -76,6 +76,8 @@ _“In short, the microservice architectural style is an approach to developing 
 
     [Sensedia - O que é uma Estratégia API First](https://sensedia.com/blog/apis/o-que-e-uma-estrategia-api-first/)
 
+    [Rest Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) by Leonard Richardson
+
 
 ## What is a Microservices Architecture?
 
