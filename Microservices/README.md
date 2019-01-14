@@ -64,13 +64,17 @@ _“In short, the microservice architectural style is an approach to developing 
 
 
 
-5. **Books**
+5. **Books / general read**
 
     [Building Microservices: Defining Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do)
 
     [Microservices Patterns  With examples in Java](https://www.manning.com/books/microservices-patterns)
 
     [.NET Microservices: Architecture for Containerized .NET Applications](https://aka.ms/microservicesebook)
+
+    [Understanding API-First Design](https://www.programmableweb.com/api-university/understanding-api-first-design)
+
+    [Sensedia - O que é uma Estratégia API First](https://sensedia.com/blog/apis/o-que-e-uma-estrategia-api-first/)
 
 
 ## What is a Microservices Architecture?
